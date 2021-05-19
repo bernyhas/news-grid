@@ -340,6 +340,6 @@ h6 {
   margin-bottom: 0.5rem;
 }
 
-#main-footer .footer-container input[type="submit"] {
+#main-footer .footer-container button {
   width: 90%;
 }
